@@ -61,7 +61,7 @@ Se quiser contribuir com melhorias ou novas funcionalidades, siga os passos:
 
 ## 📞 Contato  
 📧 E-mail: _[iwersonrb@gmail.com](mailto:iwersonrb@gmail.com)_  
-🔗 LinkedIn: _[Seu LinkedIn](https://www.linkedin.com/in/iwersonrb/)_  
+🔗 LinkedIn: _[iwersonrb](https://www.linkedin.com/in/iwersonrb/)_  
 💼 GitHub: _[Seu GitHub](https://github.com/Iwersonrb)_  
 
 ---
