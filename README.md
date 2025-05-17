@@ -1,76 +1,61 @@
-# 📊 Projeto Finanças
+# 📊 Acompanhamento e Controle de Performance Diária
 
 ## 🏆 Visão Geral  
-**Projeto Finanças** é uma planilha automatizada para **gerenciamento de investimentos**, ajudando a definir **estratégias financeiras** e prever **cenários futuros** com base em diferentes perfis de risco.  
+Este projeto contém planilhas para **gestão de tarefas, backlog e acompanhamento de atividades**, facilitando o controle do andamento das ações diárias.  
 
 ### 📌 Funcionalidades Principais:
-✅ **Cálculo de patrimônio acumulado** com base em rendimentos mensais.  
-✅ **Sugestão de investimento** baseada na renda e tempo de aplicação.  
-✅ **Cenários de dividendos futuros**, prevendo rendimentos ao longo dos anos.  
-✅ **Definição de perfil de investidor** (_Conservador, Moderado e Agressivo_).  
-✅ **Distribuição percentual de investimentos** entre diferentes tipos de FIIs.  
+✅ **Gerenciamento de tarefas** com atribuição de responsáveis.  
+✅ **Monitoramento do status** das atividades (_In Progress, Stuck, Done_).  
+✅ **Priorização de tarefas** com base na urgência.  
+✅ **Registro de datas de execução** e conclusão de cada atividade.  
+✅ **Organização em backlog e tarefas concluídas**.  
 
 ---
 
-## ⚙️ Configurações do Projeto
+## ⚙️ Estrutura da Planilha  
 
-### 💰 **Investimento Inicial**
-- **Salário considerado:** R$ 2.000  
-- **Sugestão de investimento:** 30% da renda mensal  
-- **Investimento mensal:** R$ 200  
-- **Duração:** 5 anos  
-- **Taxa de rendimento mensal:** 1,0789%  
+### 📂 **Backlog de Tarefas**
+Lista de atividades que precisam ser realizadas, incluindo:
+- **Tarefa:** Nome da atividade.  
+- **Owner:** Responsável pela execução.  
+- **Status:** Estado atual da tarefa (_In Progress, Stuck, Done_).  
+- **Data:** Registro do dia da tarefa.  
+- **Prioridade:** Indicação de urgência (_1 = Alta, 3 = Baixa_).  
 
-### 📈 **Cenários de Dividendos**
-| Tempo | Dividendo Mensal |
-|-------|------------------|
-| 2 anos | R$ 5 |
-| 5 anos | R$ 10 |
-| 10 anos | R$ 20 |
-| 20 anos | R$ 30 |
-
-### 🔥 **Alocação por Perfil de Investidor**
-O projeto define perfis de investimento e recomenda a **distribuição do capital** entre diferentes tipos de fundos imobiliários (**FIIs**):
-
-| Perfil | Papel | Tijolo | Híbridos | FOFs | Desenvolvimento | Hotelarias |
-|--------|------|------|------|------|--------------|-----------|
-| **Conservador** | 30% | 50% | 10% | 10% | 0% | 0% |
-| **Moderado** | 32% | 35% | 8% | 5% | 10% | 10% |
-| **Agressivo** | 50% | 10% | 5% | 5% | 20% | 10% |
+### 📈 **Monitoramento de Progresso**
+A planilha permite acompanhar:
+- **Total de atividades registradas.**  
+- **Atividades concluídas.**  
+- **Tarefas ainda pendentes no backlog.**  
 
 ---
 
-## 📂 Estrutura do Arquivo  
-O projeto possui os seguintes componentes essenciais:
+## 🚀 Como Usar  
 
-📁 **PROJETO FINANÇAS.xlsx** → Arquivo principal contendo cálculos e tabelas.  
-📁 **README.md** → Explicação do projeto e sua utilização.  
+1️⃣ **Abra a planilha `acompanhamento e controle de performance diaria.xlsx`.**  
+2️⃣ **Adicione novas tarefas** na aba **Backlog** com os campos necessários.  
+3️⃣ **Atualize o status das atividades** conforme o progresso.  
+4️⃣ **Use filtros e ordenações** para melhor análise dos dados.  
 
----
-
-## 🚀 Como Usar
-### 🔧 **Passo a Passo**
-1️⃣ **Baixe a planilha `PROJETO FINANÇAS.xlsx`** e abra no **Excel**.  
-2️⃣ **Edite os valores iniciais**, como **salário, percentual de investimento e anos de aplicação**.  
-3️⃣ **Analise os cenários futuros** para tomar decisões financeiras melhores!  
-
-💡 **Dica:** Caso queira personalizar a distribuição dos investimentos, basta editar a tabela de **percentuais** na aba de **perfil de investidor**.
+💡 **Dica:** Para facilitar a visualização, você pode aplicar **formatação condicional** para destacar atividades **atrasadas ou urgentes**!
 
 ---
 
-## 🏗️ Possíveis Melhorias Futuras
-🚀 **Implementação de gráficos dinâmicos** para melhor visualização dos dados.  
-🔍 **Automatização com macros e VBA** para cálculos avançados de rentabilidade.  
-📊 **Integração com APIs financeiras** para simulação de investimentos reais.  
+## 🏗️ Melhorias Futuras  
+
+🔍 **Automatização via macros VBA** para atualização dinâmica das tarefas.  
+📊 **Dashboard gráfico** para análise de performance visualmente.  
+📝 **Integração com Google Sheets ou Power BI** para relatórios avançados.  
 
 ---
 
 ## 📢 Contribuição  
+
 Se quiser contribuir com melhorias ou novas funcionalidades, siga os passos:
 
-1️⃣ **Faça um Fork do projeto**  
+1️⃣ **Faça um Fork do projeto.**  
 2️⃣ **Crie uma branch nova:** `git checkout -b melhoria-minha-contribuição`  
-3️⃣ **Envie um Pull Request** explicando sua alteração 🚀  
+3️⃣ **Envie um Pull Request** explicando sua alteração! 🚀  
 
 ---
 
@@ -81,4 +66,4 @@ Se quiser contribuir com melhorias ou novas funcionalidades, siga os passos:
 
 ---
 
-🚀 **Acompanhe a evolução do projeto e otimize seus investimentos!** 🔥  
+
