@@ -1,69 +1,57 @@
-# 📊 Acompanhamento e Controle de Performance Diária
+# 📈 README 2 — Controle Diário de Tarefas e Performance
 
-## 🏆 Visão Geral  
-Este projeto contém planilhas para **gestão de tarefas, backlog e acompanhamento de atividades**, facilitando o controle do andamento das ações diárias.  
+## ✨ Sobre o Projeto
 
-### 📌 Funcionalidades Principais:
-✅ **Gerenciamento de tarefas** com atribuição de responsáveis.  
-✅ **Monitoramento do status** das atividades (_In Progress, Stuck, Done_).  
-✅ **Priorização de tarefas** com base na urgência.  
-✅ **Registro de datas de execução** e conclusão de cada atividade.  
-✅ **Organização em backlog e tarefas concluídas**.  
+Este repositório disponibiliza uma planilha para **controle diário de tarefas**, permitindo o acompanhamento do progresso, priorização e organização do backlog de atividades. O objetivo é facilitar a gestão do tempo e aumentar a produtividade.
 
 ---
 
-## ⚙️ Estrutura da Planilha  
+## 🗂️ Estrutura da Planilha
 
-### 📂 **Backlog de Tarefas**
-Lista de atividades que precisam ser realizadas, incluindo:
-- **Tarefa:** Nome da atividade.  
-- **Owner:** Responsável pela execução.  
-- **Status:** Estado atual da tarefa (_In Progress, Stuck, Done_).  
-- **Data:** Registro do dia da tarefa.  
-- **Prioridade:** Indicação de urgência (_1 = Alta, 3 = Baixa_).  
+### 1. **Backlog de Tarefas**
+- **Tarefa:** Descrição da atividade a ser realizada.
+- **Responsável:** Pessoa encarregada pela execução.
+- **Status:** Situação atual (_In Progress, Stuck, Done_).
+- **Data:** Data de registro ou execução.
+- **Prioridade:** Grau de urgência (1 = Alta, 3 = Baixa).
 
-### 📈 **Monitoramento de Progresso**
-A planilha permite acompanhar:
-- **Total de atividades registradas.**  
-- **Atividades concluídas.**  
-- **Tarefas ainda pendentes no backlog.**  
+### 2. **Monitoramento de Progresso**
+- **Total de tarefas:** Quantidade de atividades cadastradas.
+- **Concluídas:** Número de tarefas finalizadas.
+- **Pendentes:** Atividades ainda em aberto no backlog.
 
 ---
 
-## 🚀 Como Usar  
+## 🚦 Como Utilizar
 
-1️⃣ **Abra a planilha `acompanhamento e controle de performance diaria.xlsx`.**  
-2️⃣ **Adicione novas tarefas** na aba **Backlog** com os campos necessários.  
-3️⃣ **Atualize o status das atividades** conforme o progresso.  
-4️⃣ **Use filtros e ordenações** para melhor análise dos dados.  
-
-💡 **Dica:** Para facilitar a visualização, você pode aplicar **formatação condicional** para destacar atividades **atrasadas ou urgentes**!
-
----
-
-## 🏗️ Melhorias Futuras  
-
-🔍 **Automatização via macros VBA** para atualização dinâmica das tarefas.  
-📊 **Dashboard gráfico** para análise de performance visualmente.  
-📝 **Integração com Google Sheets ou Power BI** para relatórios avançados.  
+1. **Abra a planilha** `acompanhamento e controle de performance diaria.xlsx`.
+2. **Adicione novas tarefas** na aba _Backlog_, preenchendo todos os campos.
+3. **Atualize o status** das tarefas conforme o andamento.
+4. **Utilize filtros e ordenações** para facilitar a análise.
+5. **Aplique formatação condicional** para destacar tarefas urgentes ou atrasadas.
 
 ---
 
-## 📢 Contribuição  
+## 🔮 Melhorias Sugeridas
 
-Se quiser contribuir com melhorias ou novas funcionalidades, siga os passos:
-
-1️⃣ **Faça um Fork do projeto.**  
-2️⃣ **Crie uma branch nova:** `git checkout -b melhoria-minha-contribuição`  
-3️⃣ **Envie um Pull Request** explicando sua alteração! 🚀  
+- Automatização de atualizações via **macros VBA**.
+- Criação de **dashboards gráficos** para visualização do desempenho.
+- Integração com **Google Sheets** ou **Power BI** para relatórios avançados.
 
 ---
 
-## 📞 Contato  
-📧 E-mail: _[iwersonrb@gmail.com](mailto:iwersonrb@gmail.com)_  
-🔗 LinkedIn: _[iwersonrb](https://www.linkedin.com/in/iwersonrb/)_  
-💼 GitHub: _[Iwersonrb](https://github.com/Iwersonrb)_  
+## 🤝 Contribua
+
+1. Faça um **Fork** deste repositório.
+2. Crie uma nova branch: `git checkout -b sua-melhoria`.
+3. Envie um **Pull Request** detalhando sua contribuição.
 
 ---
 
+## 📬 Contato
 
+- E-mail: [iwersonrb@gmail.com](mailto:iwersonrb@gmail.com)
+- LinkedIn: [iwersonrb](https://www.linkedin.com/in/iwersonrb/)
+- GitHub: [Iwersonrb](https://github.com/Iwersonrb)
+
+---
